@@ -1,0 +1,22 @@
+# Build & Output Folders
+bin/
+obj/
+Deploy_ModeA_SubApp/
+Deploy_ModeB_UnifiedWwwroot/
+.temp_backend_publish/
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDE & Editor
+.vscode/
+.vs/
+*.user
+*.suo
+
+# OS Files
+Thumbs.db
+[Dd]esktop.ini
